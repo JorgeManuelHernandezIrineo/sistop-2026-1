@@ -1,0 +1,1 @@
+Este es un archivo de ejemplo con información ficticia de mi CPU en Windows
